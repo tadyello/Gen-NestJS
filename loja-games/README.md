@@ -1,5 +1,5 @@
-##Construa a Backend para uma Loja de Games com a capacidade de manipular os
-dados dos Produtos da loja. Os produtos deverão estar Classificados por Categoria.##
+#Construa a Backend para uma Loja de Games com a capacidade de manipular os
+dados dos Produtos da loja. Os produtos deverão estar Classificados por Categoria.
 1) Crie o projeto seguindo as boas práticas
 2) Configure o Banco de dados da aplicação no MySQL Workbench
 3) Faça o CRUD completo do recurso Produto (6 métodos)
